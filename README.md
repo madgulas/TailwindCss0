@@ -1,6 +1,6 @@
 Created a basic landing page using Tailwindcss.
 
-Web Page is deployed here: https://madgulas.github.io/TailwindCss0/
+Web Page is deployed here: https://madgulas.github.io/TailwindCss0/landing.html
 
 In case the site does not open here is how the website looks.
 
